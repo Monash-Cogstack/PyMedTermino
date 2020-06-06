@@ -1,0 +1,230 @@
+512 -1 # Modificateur_infectieux
+513 -1 # Modificateur_bacterie
+514 -1 # Modificateur_virus
+516 -1 # Modificateur_parasite
+515 -1 # Modificateur_champignon
+517 -1 # Modificateur_tumeur
+518 -1 # Modificateur_tumeurb
+
+
+544 1 # Aucun_pictogramme_central
+
+551 1 # Pictogramme_sang
+552 1 # Pictogramme_moelle
+555 1 # Pictogramme_plaquette
+553 1 # Pictogramme_globule_rouge
+
+554 1 # Pictogramme_globule_blanc
+568 1 # Pictogramme_rate
+
+615 1 # Pictogramme_glande
+619 1 # Pictogramme_glande_bouchée
+616 1 # Pictogramme_thyroide
+
+542 1 # Modificateur_metab
+672 1 # Pictogramme_alimentation
+653 1 # Pictogramme_graisse
+617 1 # Pictogramme_pancreas
+618 1 # Pictogramme_diabète
+
+628 1 # Pictogramme_psy
+634 1 # Pictogramme_psy_alimentation
+635 1 # Pictogramme_psy_sexuel
+630 1 # Pictogramme_humeur
+632 1 # Pictogramme_peur
+531 1 # Modificateur_dependance
+636 1 # Pictogramme_paroles
+629 1 # Pictogramme_sommeil
+631 1 # Pictogramme_asthenie
+
+620 1 # Pictogramme_cerveau
+626 1 # Pictogramme_cerveau_degenerescence
+627 1 # Pictogramme_extrapyramidal
+625 1 # Pictogramme_cerveau_eeg
+624 1 # Pictogramme_fonction_motrice
+623 1 # Pictogramme_fonction_sensorielle
+622 1 # Pictogramme_fonction_cerebrale
+621 1 # Pictogramme_moelle_epiniere
+633 1 # Pictogramme_vertige
+541 1 # Modificateur_nerf
+
+637 1 # Pictogramme_oeil
+638 1 # Pictogramme_glaucome
+
+639 1 # Pictogramme_oreille
+
+536 1 # Modificateur_vaisseau
+537 1 # Modificateur_vaisseau_pa
+540 1 # Modificateur_vaisseau_bouché
+538 1 # Modificateur_oedeme
+539 1 # Modificateur_hemorragie
+549 1 # Pictogramme_coeur
+550 1 # Pictogramme_coeur_rythme
+
+546 1 # Pictogramme_poumon
+547 1 # Pictogramme_bronches
+548 1 # Pictogramme_bronches_bouchées
+598 1 # Pictogramme_gorge_nez
+599 1 # Pictogramme_toux
+600 1 # Pictogramme_gorge_nez_bouché
+
+601 1 # Pictogramme_tube_digestif
+593 1 # Pictogramme_bouche
+594 1 # Pictogramme_dent
+596 1 # Pictogramme_dent_email
+597 1 # Pictogramme_dent_pulpe
+595 1 # Pictogramme_gencive
+605 1 # Pictogramme_oesophage
+607 1 # Pictogramme_oesophage_bouché
+606 1 # Pictogramme_rgo
+602 1 # Pictogramme_estomac
+603 1 # Pictogramme_estomac_bouché
+604 1 # Pictogramme_nausee
+608 1 # Pictogramme_petit_intestin
+609 1 # Pictogramme_petit_intestin_bouché
+610 1 # Pictogramme_gros_intestin
+611 1 # Pictogramme_gros_intestin_bouché
+612 1 # Pictogramme_foie
+613 1 # Pictogramme_vesicule
+614 1 # Pictogramme_vesicule_bouchée
+
+640 1 # Pictogramme_peau
+643 1 # Pictogramme_acne
+641 1 # Pictogramme_photosens
+642 1 # Pictogramme_psoriasis
+646 1 # Pictogramme_ongle
+644 1 # Pictogramme_cheveux
+645 1 # Pictogramme_muqueuse
+
+647 1 # Pictogramme_os
+648 1 # Pictogramme_fracture
+650 1 # Pictogramme_os_remodelage
+649 1 # Pictogramme_os_destructuration
+651 1 # Pictogramme_articulation
+652 1 # Pictogramme_muscle
+
+569 1 # Pictogramme_genital
+572 1 # Pictogramme_genital_femelle
+579 1 # Pictogramme_sein
+582 1 # Pictogramme_premenopause
+581 1 # Pictogramme_menopause
+573 1 # Pictogramme_uterus
+570 1 # Pictogramme_genital_male
+571 1 # Pictogramme_prostate
+
+583 1 # Pictogramme_rein
+587 1 # Pictogramme_excretion_renale
+589 1 # Pictogramme_leucocyturie
+588 1 # Pictogramme_hematurie
+590 1 # Pictogramme_urique
+591 1 # Pictogramme_concentration_urique_med
+585 1 # Pictogramme_vessie
+586 1 # Pictogramme_vessie_bouchée
+584 1 # Pictogramme_uretere
+
+533 1 # Modificateur_malformation
+
+556 1 # Pictogramme_serique
+558 1 # Pictogramme_glycemie
+559 1 # Pictogramme_lipidemie
+562 1 # Pictogramme_kaliemie
+560 1 # Pictogramme_natremie
+563 1 # Pictogramme_calcemie
+561 1 # Pictogramme_chloremie
+567 1 # Pictogramme_magnesemie
+566 1 # Pictogramme_ferremie
+564 1 # Pictogramme_phosphoremie
+565 1 # Pictogramme_lithiemie
+557 1 # Pictogramme_concentration_plasma_med
+
+657 1 # Pictogramme_tete
+660 1 # Pictogramme_dos
+658 1 # Pictogramme_thorax
+659 1 # Pictogramme_abdomen
+656 1 # Pictogramme_bras
+655 1 # Pictogramme_jambe
+592 1 # Pictogramme_temperature
+
+662 1 # Pictogramme_classe_dage
+664 1 # Pictogramme_enfant
+665 1 # Pictogramme_adulte
+666 1 # Pictogramme_personne_agee
+663 1 # Pictogramme_nourrisson
+
+668 1 # Pictogramme_taille
+667 1 # Pictogramme_poids
+671 1 # Pictogramme_sportif
+678 1 # Pictogramme_activite_patient
+669 1 # Pictogramme_voiture
+674 1 # Pictogramme_tabac
+673 1 # Pictogramme_alcool
+675 1 # Pictogramme_drogue
+670 1 # Pictogramme_geo
+677 1 # Pictogramme_entourage
+679 1 # Pictogramme_logement
+676 1 # Pictogramme_famille
+
+574 1 # Pictogramme_grossesse
+575 1 # Pictogramme_grossesse_premier_trimestre
+576 1 # Pictogramme_grossesse_second_trimestre
+577 1 # Pictogramme_grossesse_troisième_trimestre
+578 1 # Pictogramme_accouchement
+580 1 # Pictogramme_allaitement
+
+
+503 1 # Modificateur_physio
+504 1 # Modificateur_patho
+536 1 # Modificateur_vaisseau
+537 1 # Modificateur_vaisseau_pa
+540 1 # Modificateur_vaisseau_bouché
+539 1 # Modificateur_hemorragie
+538 1 # Modificateur_oedeme
+529 1 # Modificateur_inflammation
+532 1 # Modificateur_lesion
+530 1 # Modificateur_douleur
+534 1 # Modificateur_agrandissement
+508 1 # Modificateur_hypo
+510 1 # Modificateur_hypo2
+509 1 # Modificateur_arret
+506 1 # Modificateur_hyper
+507 1 # Modificateur_hyper2
+
+
+520 1 # Modificateur_substance
+522 1 # Modificateur_autoimmune
+521 1 # Modificateur_genetique
+519 1 # Modificateur_allergie
+523 1 # Modificateur_etio_traitement
+525 1 # Modificateur_etio_medicament
+526 1 # Modificateur_etio_procedure
+527 1 # Modificateur_etio_greffe
+524 1 # Modificateur_etio_radio
+
+
+495 1 # Couleur_marron
+496 1 # Couleur_rouge
+497 1 # Couleur_orange
+
+
+696 1 # Exposant_traitement
+697 1 # Exposant_medicament
+699 1 # Exposant_pommade
+698 1 # Exposant_comprime
+700 1 # Exposant_injectable
+701 1 # Exposant_procedure
+703 1 # Exposant_chirurgie
+705 1 # Exposant_implant
+706 1 # Exposant_greffe
+704 1 # Exposant_ectomie
+702 1 # Exposant_radiothe
+708 1 # Exposant_alimentation
+707 1 # Exposant_sportif
+
+
+710 1 # Exposant_diagnostic
+711 1 # Exposant_clinique
+712 1 # Exposant_test_biologique
+714 1 # Exposant_biopsie
+713 1 # Exposant_bio_modifie
+716 1 # Exposant_examen_fonctionnel
+715 1 # Exposant_radio
