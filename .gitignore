@@ -3,6 +3,8 @@ __pycache__
 
 *.log
 *.mo
+*.sqlite3
+*.sqlite3.18
 
 *.old
 *.save
