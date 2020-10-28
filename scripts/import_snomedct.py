@@ -47,7 +47,7 @@ if len(sys.argv) >= 3:
   SNOMEDCT_DIR       = sys.argv[1]
   SNOMEDCT_CORE_FILE = sys.argv[2]
 
-LANGUAGE    = "en"
+LANGUAGE    = "en-AU"
 NB          = SNOMEDCT_DIR.split("_")[-1]
 if NB.endswith("/RF2Release"): NB = NB.replace("/RF2Release", "")
 NB = NB[:8]
@@ -138,11 +138,16 @@ for table, language_dependent in [
     ("Description"   , True),
     ("Relationship"  , False),
   ]:
+  
+  # **** CHANGES BY ADAM HERE ****
   if language_dependent:
-    filename = os.path.join(SNOMEDCT_DIR, "Snapshot", "Terminology", "sct2_%s_Snapshot-%s_INT_%s.txt" % (table, LANGUAGE, NB))
+    #filename = os.path.join(SNOMEDCT_DIR, "Snapshot", "Terminology", "sct2_%s_Snapshot-%s_INT_%s.txt" % (table, LANGUAGE, NB))
+    filename = os.path.join(SNOMEDCT_DIR, "Snapshot", "Terminology", "sct2_%s_Snapshot-%s_AU1000036_20200930.txt" % (table, LANGUAGE))
   else:
-    filename = os.path.join(SNOMEDCT_DIR, "Snapshot", "Terminology", "sct2_%s_Snapshot_INT_%s.txt" % (table, NB))
-    
+    #filename = os.path.join(SNOMEDCT_DIR, "Snapshot", "Terminology", "sct2_%s_Snapshot_INT_%s.txt" % (table, NB))
+    filename = os.path.join(SNOMEDCT_DIR, "Snapshot", "Terminology", "sct2_%s_Snapshot_AU1000036_20200930.txt" % (table))
+  
+
   sys.stderr.write("Importing %s ...\n" % filename)
   
   for line in read_file(filename).split(u"\n")[1:]:
