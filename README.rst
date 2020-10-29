@@ -1,6 +1,16 @@
 PyMedTermino
 ============
 
+**
+Modified to read SNOMED-CT-AU
+
+It previously expected to use international edition, but we'll point it to our copy of SNOMED-CT-AU
+To use, you will still need to download the UMLS Core Subset here (http://www.nlm.nih.gov/research/umls/Snomed/core_subset.html)
+Then edit the setup.py to change the hard-coded paths, as described here (https://pythonhosted.org/PyMedTermino/tuto_en.html#installation)
+**
+
+
+
 PyMedTermino (Medical Terminologies for Python) is a Python module for
 easy access to the main medical terminologies in Python.
 The following terminologies are supported: SNOMED CT, ICD10, MedDRA, CDF, UMLS and VCM
